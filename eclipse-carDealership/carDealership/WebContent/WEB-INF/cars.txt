@@ -1,0 +1,10 @@
+BMW;X5 PHEV;2018;12000;luxury and functionality in one SUV;25000;Gray;1;2020-06-01;https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRajagJUxJwIw1BlzlEpBeGSwtUs1qbf8veBf2rdENatu5eL44o
+Toyota;Highlander;2018;8000;The perfect SUV for family Vacations;28000;Gray;2;2020-06-01;https://postmediadriving.files.wordpress.com/2020/02/chrome-image-412311.png?w=800&h=520&crop=1
+KIA;SOUL;2019;10000;The students dream for parking and maneuverability;18000;Gray;3;2020-06-01;https://s.aolcdn.com/commerce/autodata/images/USD00KIC101E021001.jpg
+Mercedes;Mclaren;2020;20000;the ultimate machine for speed;35000;Gray;4;2020-04-12;https://www.mercedes-benz.com/en/vehicles/passenger-cars/_jcr_content/root/grid_copy/grid-par/griditem_0/image/MQ6-8-image-20200129142637/00-mercedes-benz-concept-cars-mercedes-benz-amg-vision-gt-gran-turismo-2560x1440-2560x1440.jpeg
+Nissan;Pathfinder;2020;2000;The flagship vehicle for Nissan boast an unbelievable horse power and tow capability;31250;Black;5;2020-05-13;https://static.foxdealer.com/global/2020/01/grade-2020-pathfinder-s-magnetic-black-pearl.png.ximg_.l_12_m.smart_.png
+Ford;Fusion;2020;25;The cool kids want this;27000;white;6;2020-07-07;https://s.aolcdn.com/commerce/autodata/images/USD00FOC201D021001.jpg
+Kantanka;K-D3;2021;20;The Ghanaian solution for all off-road problems;30000;Red;7;2020-08-10;https://lh3.googleusercontent.com/proxy/ViTBIBYAp8W7fwL-H8KTTTNsz8CIXyO-J3xJEihr-tUuN8FtzBX90fPw9ZL_8tmj_gdzTaU-tLh_fLPRnJrSO9r8yTHIbkk2-13ls-ktBByncbRzsrc
+Subaru;Crosstrek;2019;900;some;23500;teal;8;2020-08-13;https://s.aolcdn.com/commerce/autodata/images/USC80SUS091B021001.jpg
+Toyota;Highlander;2018;10000;another great suv;28000;blue;9;2020-02-13;https://cimg3.ibsrv.net/ibimg/hgm/1920x1080-1/100/698/2020-toyota-highlander_100698395.jpg
+KIA ;OPTIMA;2020;2000;A nice ride at an affordable price;23000;blue;10;2020-08-15;https://blogmedia.dealerfire.com/wp-content/uploads/sites/920/2020/01/2020-Kia-Optima-Horizon-Blue-B_o.jpg
